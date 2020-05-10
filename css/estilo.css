@@ -1,0 +1,10 @@
+#listaestudiantes{
+    position: absolute;
+    left: 50%;
+    top: 5%
+}
+#bloqueregistro{
+    position: fixed;
+    left: 5%;
+    top: 5%;
+}
